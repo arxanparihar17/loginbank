@@ -1,0 +1,28 @@
+h1{
+     text-align:center;
+         color:rgb(139, 157, 196);
+}
+body{
+    text-align:center;
+    background-image: url(login.png);
+    background-size: cover;
+
+    
+}
+button{
+    color: white;
+    background-color: blue;
+    width:165px;
+}
+#firstdiv
+{
+
+  background-color:rgba(255,255,255,0.2); 
+  border: 2px solid white;
+  border-radius:90px;
+  padding:50px;
+  margin:50px;  
+}
+footer{
+    text-align:center;
+}
